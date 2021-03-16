@@ -43,3 +43,8 @@
 
 ## how to use
 - https://github.com/yukiaga/npm-package-using-test
+
+## to do
+- https://qiita.com/ARR/items/ff1bbf663426b5eb7293#%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6
+- 中規模開発用にCJ, ESM, min.jsのだし分けを行いたい
+
