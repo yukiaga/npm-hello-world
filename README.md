@@ -40,3 +40,6 @@
 - ```npm whoami```
 - ```npm version```
 - ```npm publish```
+
+## how to use
+- https://github.com/yukiaga/npm-package-using-test
